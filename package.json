@@ -1,0 +1,29 @@
+{
+  "name": "express-blog-intro",
+  "version": "1.0.0",
+  "description": "express blog intro ",
+  "main": "app.js",
+  "scripts": {
+    "watch": "node --watch app.js",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GheorgheMadan/express-blog-intro.git"
+  },
+  "keywords": [
+    "server",
+    "rotta",
+    "blog"
+  ],
+  "author": "Gheorghe Madan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GheorgheMadan/express-blog-intro/issues"
+  },
+  "homepage": "https://github.com/GheorgheMadan/express-blog-intro#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
